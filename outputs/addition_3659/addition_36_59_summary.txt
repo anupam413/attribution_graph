@@ -1,0 +1,13 @@
+ARITHMETIC CIRCUIT ANALYSIS
+============================================================
+
+Problem: 36 + 59 = 95
+Prompt: 36 + 59 =
+Model prediction:  0
+
+Graph Statistics:
+  Nodes: 256
+  Edges: 150
+  Features: 256
+
+Results saved to: outputs/addition
